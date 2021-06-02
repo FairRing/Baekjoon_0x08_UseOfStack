@@ -6,5 +6,4 @@
 [10799](https://www.acmicpc.net/problem/10799)  | 쇠막대기 |
 [2504](https://www.acmicpc.net/problem/5430)  | 괄호의 값 |
 [9012](https://www.acmicpc.net/problem/5430)  | 괄호 |
-[4889](https://www.acmicpc.net/problem/5430)  | 안정적인 문자열
- |
+[4889](https://www.acmicpc.net/problem/5430)  | 안정적인 문자열 |
